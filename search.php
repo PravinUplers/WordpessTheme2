@@ -9,6 +9,7 @@
  * @since Twenty Twenty-One 1.0
  */
 
+//  Comment for search file
 get_header();
 
 if ( have_posts() ) {
